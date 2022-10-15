@@ -1,5 +1,6 @@
 body {
     background-color: #dff6ff;
+    font-family: 'Montserrat', sans-serif;
   }
   hr {
     border-style: none;
@@ -10,7 +11,9 @@ body {
   }
   h1 {
     color: #1F4690;
+    font-family: 'Sacramento', cursive;
   }
   h3 {
     color: #256D85;
+    font-family: 'Sacramento', cursive;
   }
