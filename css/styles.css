@@ -11,11 +11,13 @@ body {
   }
   h1 {
     color: #1F4690;
-    font-family: 'Oooh Baby', cursive;
+    /*font-family: 'Oooh Baby', cursive;*/
+    font-family: 'Sacramento', cursive;
     font-size: 80px;
   }
   h3 {
     color: #256D85;
-    font-family: 'Bad Script', cursive;
+    /*font-family: 'Bad Script', cursive;*/
+    font-family: 'Sacramento', cursive;
     font-size: 30px;
   }
